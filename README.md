@@ -21,7 +21,7 @@
 ## Install
 
 ```bash
-npm install -g @2fd/graphdoc
+npm install -g sherry_graphdoc
 ```
 
 ## Use
@@ -87,9 +87,9 @@ And execute
 
     Static page generator for documenting GraphQL Schema v2.4.0
 
-    Usage: node bin/graphdoc.js [OPTIONS] 
+    Usage: node bin/graphdoc.js [OPTIONS]
 
-    
+
     [OPTIONS]:
     -c, --config                   Configuration file [./package.json].
     -e, --endpoint                 Graphql http endpoint ["https://domain.com/graphql"].

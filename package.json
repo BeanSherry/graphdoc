@@ -1,5 +1,5 @@
 {
-  "name": "@2fd/graphdoc",
+  "name": "sherry_graphdoc",
   "version": "2.4.0",
   "description": "Static page generator for documenting GraphQL Schema",
   "main": "bin/graphdoc",
@@ -21,16 +21,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2fd/graphdoc.git"
+    "url": "git+https://github.com/BeanSherry/graphdoc.git"
   },
   "keywords": [
     "graphql",
     "documentation"
   ],
-  "author": "Fede Ramirez <i@2fd.me>",
+  "author": "BeanSherry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/2fd/graphdoc/issues"
+    "url": "https://github.com/BeanSherry/graphdoc/issues"
   },
   "jest": {
     "testRegex": "\\.(test|spec)\\.js$",
@@ -41,7 +41,7 @@
       "node"
     ]
   },
-  "homepage": "https://github.com/2fd/graphdoc#readme",
+  "homepage": "https://github.com/BeanSherry/graphdoc#readme",
   "devDependencies": {
     "@salesforce-ux/design-system": "2.2.1",
     "@types/bluebird": "^3.0.37",

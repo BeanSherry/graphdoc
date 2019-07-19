@@ -1,5 +1,5 @@
 {
-  "name": "@2fd/graphdoc",
+  "name": "sherry_graphdoc",
   "version": "1.2.0",
   "description": "Static page generator for documenting GraphQL Schema",
   "homepage": "https://github.com/2fd/graphdoc#readme",
